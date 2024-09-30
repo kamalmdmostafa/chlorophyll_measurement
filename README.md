@@ -1,5 +1,5 @@
 # chlorophyll_measurement
-Extract chlorophyll with 100% methanol (grinding in liquid nitrogen or by bead beating) in the dark. Use 1 ml Cuvette to measure the absorbance at A652 and A665 visible wavelength
+Extract chlorophyll with 100% methanol (grinding in liquid nitrogen or by bead beating) in the dark. Use 1 ml Cuvette to measure the absorbance at A652 and A665 visible wavelength. I usually extract chlorophyll from microalgae.
 # Chlorophyll Content Analysis Shiny App
 
 This Shiny app allows users to analyze chlorophyll content data, calculate chlorophyll a, b, and total chlorophyll concentrations, and visualize the results with statistical analysis.
