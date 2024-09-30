@@ -47,7 +47,7 @@ shiny::runApp("path/to/app.R")
 ```
 
 Replace "path/to/app.R" with the actual path to where you saved the app.R file.
-
+5. Or, just open the app with R studio and run the app
 ## Using the App
 
 1. Choose your input method: Manual Entry or CSV Upload.
